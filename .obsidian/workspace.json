@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funcion de Q(1, arr(3)).md",
+                "file": "Importancia de  Q(1, arr(3)).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8acde888d007c452",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "edbcf86b75f454d9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funcion de Q(1, arr(3)).md",
+                "file": "Importancia de  Q(1, arr(3)).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funcion de Q(1, arr(3)).md",
+                "file": "Importancia de  Q(1, arr(3)).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funcion de Q(1, arr(3)).md"
+                "file": "Importancia de  Q(1, arr(3)).md"
               }
             }
           }
@@ -160,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e15bcd66920399a2",
+  "active": "3b9d23fe546915c1",
   "lastOpenFiles": [
+    "Funcion de Q(1, arr(3)).md",
     "Importancia de  Q(1, arr(3)).md",
-    "Welcome.md",
-    "Funcion de Q(1, arr(3)).md"
+    "Welcome.md"
   ]
 }
